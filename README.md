@@ -1,15 +1,9 @@
 # software-ganesh 
-software development
-#NLP based LLM prediction in finance with section  -1 and description for fraud.
-
-<b> It will make it bold:</b> rest of the content.
-
-
-# Heading
-
-## Sub heading
-
-### Bold
-
- 
-
+<h1>Personalized Meal Kit</h1>
+<h3>Ganesh Kommineni</h3>
+<p>The project Proposal that we proposed have have different functionalities like</p>
+<p>User Profile Customization</p>
+<p>Meal Plan Recommendations</p>
+<p>Ingredient Customization</p>
+<p>Flexible Portion Control</p>
+<p>Recipe Library</p>
